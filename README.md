@@ -4,20 +4,20 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Python],
+   code: [Javascript, Typescript, Python],
    technologies: {
       frontEnd: {
-         js: ["React js", "Angular"],
-         css: ["Bootstrap", "Material Design"]
+         js: ["NextJS", "React", "Nuxt", "VueJS"],
+         css: ["Bootstrap", "Material Design", "Mantine", "TailwindCSS"]
       },
       backEnd: {
-         python: ["Django", "Flask", "Pandas", "Jupyter"],
+         python: ["Django", "Flask", "FastAPI", "Pandas", "Jupyter"],
          js: ["Node", "Express"],
          misc: ["Bash", "Docker", "Nginx", "AWS"],
       },
-      databases: ["PostgreSQL", "MySQL", "Redis", "Vertica", "Snowflake"],
+      databases: ["PostgreSQL", "MySQL", "Redis", "Vertica", "Snowflake", "Supabase"],
    },
-   currentOccupation: ["Software Engineer on Insticator inc."],
+   currentOccupation: ["Software Engineer"],
 };
 ```
 
