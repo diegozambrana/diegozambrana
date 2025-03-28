@@ -19,6 +19,7 @@ const aboutMe = {
       devops:: ["Docker", "AWS"]
    },
    currentOccupation: ["Software Engineer", "Data Engineer"],
+   education: ["Bachelor of Computer Science", "Master in Data Science"]
 };
 ```
 
