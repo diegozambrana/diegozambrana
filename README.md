@@ -4,11 +4,11 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, Python],
+   code: [Python, Javascript, Typescript ],
    technologies: {
       frontEnd: {
          js: ["NextJS", "React", "Nuxt", "VueJS"],
-         css: ["Bootstrap", "Material Design", "Mantine", "TailwindCSS"]
+         css: ["Bootstrap", "Material Design", "Mantine", "TailwindCSS", "shadcn"]
       },
       backEnd: {
          python: ["Django", "Flask", "FastAPI", "Pandas", "Jupyter"],
@@ -16,8 +16,9 @@ const aboutMe = {
          misc: ["Bash", "Docker", "Nginx", "AWS"],
       },
       databases: ["PostgreSQL", "MySQL", "Redis", "Vertica", "Snowflake", "Supabase"],
+      devops:: ["Docker", "AWS"]
    },
-   currentOccupation: ["Software Engineer"],
+   currentOccupation: ["Software Engineer", "Data Engineer"],
 };
 ```
 
